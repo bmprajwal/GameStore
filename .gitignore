@@ -1,0 +1,4 @@
+GameStoreAPI/bin/
+GameStoreAPI/obj/
+
+*.db
